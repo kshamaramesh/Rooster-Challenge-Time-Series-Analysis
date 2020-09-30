@@ -12,6 +12,13 @@
 
 The ESC dataset used for model training, can be downloaded from the following https://github.com/karolpiczak/ESC-50.
 
+## Model
+      VGG Net using the pretrained weights
+## Prediction
+      Clipwise Prediction
+      
+ 
+
 
 
 
